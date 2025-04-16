@@ -12,16 +12,16 @@ apacheScan is a simple Python script that scans a given Apache version against a
 - Python 3.x
 
 #### Usage 
-```JSON
+```BASH
 git clone https://github.com/itzkinleydorji/Personal-Tools/ApacheScanner.git
 ```
-```JSON
+```BASH
 cd ApacheScanner
 ```
-```JSON
+```BASH
 sudo chmod +x scan.py
 ```
-```JSON
+```BASHL
 sudo python scan.py apache version 
 sudo python scan.py 2.2.8
 ```
